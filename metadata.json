@@ -1,0 +1,6 @@
+{
+  "name": "Crazy Chaos Arena: Unlimited",
+  "description": "High-octane action arena game with infinite levels, wild crazy characters, customizable skins, procedural boss encounters, and an upgrade armory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
